@@ -6,7 +6,7 @@ import { adspect } from "./adpect.js";
 import { sendToApi } from "./lead.js";
 
 
-const affiliate_id = "95";
+const affiliate_id = "3";
 const SID = "f83c5ad6-ed31-4704-b1f4-7d039cab4d04";
 const vide_ID_white = "vidalytics_embed_DPnuBqkRX9kgDJoj";
 const vide_ID_black = "vidalytics_embed_VIhNGdyEtLYaNHWY";
